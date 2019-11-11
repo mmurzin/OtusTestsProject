@@ -59,7 +59,7 @@
                                     <action selector="sendFeedbackClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5DK-4r-onr"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Feedback was sent" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9cg-XC-jpz">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9cg-XC-jpz">
                                 <rect key="frame" x="86" y="368" width="148" height="21"/>
                                 <accessibility key="accessibilityConfiguration" identifier="statusLabelIndentifier"/>
                                 <constraints>
